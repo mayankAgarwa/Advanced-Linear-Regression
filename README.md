@@ -32,3 +32,4 @@
 	- Model validation through k-fold validation
 	- Hold-one-out (also known as Leave-one-out validation)
 
+Kindly refer to the python file for more info
